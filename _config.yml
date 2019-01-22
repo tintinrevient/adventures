@@ -13,7 +13,7 @@ twitter_username:   gaboratorium # Your Twitter username here
 github_username:    gaboratorium # Your GitHub username here
 
 # Site Settings
-baseurl:            "/adventures" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /:title # Post permalink
 timezone:           Europe/Copenhagen # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
