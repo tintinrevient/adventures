@@ -1,3 +1,3 @@
-# gaboratorium.github.io
+# The Adventures of Tintin
 
-A regular jekyll blog. See it live at [gaboratorium.github.io](http://gaboratorium.github.io).
+To record the ebb and flow of thoughts
