@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Irony"
+date:   2018-04-21 16:26:16 +0800
+published: true
+---
+“In an ideal world, a young man should not be an ironical person. At that age, irony prevents growth, stunts the imagination. It is best to start life in a cheerful and open state of mind, believing in others, being optimistic, being frank with everyone about everything. ”
+
+From [NASA](https://www.nasa.gov/multimedia/imagegallery/index.html)
+
+{% include image.html file="Satellites_For_Sale.jpg" alt="" %}
