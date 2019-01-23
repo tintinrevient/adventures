@@ -1,21 +1,11 @@
   # Site Info
-title:              "gaboratorium blog"
-description:        "Web Development and Cloud Computing tutorials"
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
-
-# Author Info
-author_name:        "Gábor Pintér" # Your name here
-author_email:       gaboratorium@gmail.com # Your email here
-author_web: gaboratorium.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
-twitter_username:   gaboratorium # Your Twitter username here
-github_username:    gaboratorium # Your GitHub username here
+title:              "The Adventures of Tintin"
+google_verify:       # Put your Google Verification here
+google_analytics:    # Put your Google Analytics code
 
 # Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "/adventures" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /:title # Post permalink
-timezone:           Europe/Copenhagen # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
 # Site Build
@@ -33,7 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - tzinfo
-
 
 feed:
   path: rss/index.xml

@@ -25,28 +25,9 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.twitter_username }}">
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/assets/logo_thumbnail.png">
-
-{% if page.title %}
-<meta name="twitter:title"   content="{{ page.title }}">
-	{% if page.summary %}
-		<meta name="twitter:description" content="{{ page.summary }}">
-	{% else %}
-		<meta name="twitter:description" content="Published on {{ site.title }} — {{ site.description }}">
-	{% endif %}
-{% else %}
-<meta name="twitter:title"   content="{{ site.title }}">
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-
-<!-- end of Twitter cards -->
-
 <!-- Font Awesome -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
 
 <!-- jQuery -->
 <script
