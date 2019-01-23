@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "你锋芒太露，这是你的弱点。但好刀应放进刀鞘里"
+date:   2014-08-03 15:41:16 +0800
+published: true
+---
+Have no fond memories of talking and probably the mind power leaks during the talking. So we could seek sanctuary in the non-talking-discipline? How to talk eloquently perhaps is on an equal basis with How to age gracefully.
+
+From [椿三十郎](http://en.wikipedia.org/wiki/Sanjuro)
+
+{% include image.html file="sanjuro-1962.jpg" alt="" %}

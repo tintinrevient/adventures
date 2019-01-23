@@ -7,4 +7,5 @@ published: true
 How many decent people are out there doing sneaky stuff？Count me in.
 
 By [Martin Kippenberger](http://en.wikipedia.org/wiki/Martin_Kippenberger)
+
 {% include image.html file="dialogue-with-the-youth-of-today-detail-1981.jpg" alt="" %}
