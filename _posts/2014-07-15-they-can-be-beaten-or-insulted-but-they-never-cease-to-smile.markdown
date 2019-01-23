@@ -6,6 +6,6 @@ published: true
 ---
 Against the vagaries of the dark sides of being human, I have to keep capricious, to be a liar, perhaps.
 
-From [Man Behind Gory Art](http://www.artparasites.com/people/man-behind-gory-art-1385)
+From [Man Behind Gory Art](http://www.artparasites.com/people/man-behind-gory-art-1385){:target="_blank"}
 
 {% include image.html file="joan-cornella.jpg" alt="" %}

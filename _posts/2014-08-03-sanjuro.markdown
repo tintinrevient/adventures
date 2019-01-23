@@ -6,6 +6,6 @@ published: true
 ---
 Have no fond memories of talking and probably the mind power leaks during the talking. So we could seek sanctuary in the non-talking-discipline? How to talk eloquently perhaps is on an equal basis with How to age gracefully.
 
-From [椿三十郎](http://en.wikipedia.org/wiki/Sanjuro)
+From [椿三十郎](http://en.wikipedia.org/wiki/Sanjuro){:target="_blank"}
 
 {% include image.html file="sanjuro-1962.jpg" alt="" %}

@@ -6,6 +6,6 @@ published: true
 ---
 家居杂志、时装工业，可以完全不需要你寻找地、便捷地提供快速地被治愈的假象。所以，狗，花朵，衣着。
 
-By [Ritty Tacsum](http://www.rittytacsum.com/)
+By [Ritty Tacsum](http://www.rittytacsum.com/){:target="_blank"}
 
 {% include image.html file="crop_70709.png" alt="" %}
