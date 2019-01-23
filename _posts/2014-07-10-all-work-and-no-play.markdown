@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Well, nobody's perfect"
+title:  "是为了玩耍才出生的吧，是为了嬉戏才出生的吧"
 date:   2014-07-10 21:22:16 +0800
 published: true
 ---
