@@ -9,5 +9,3 @@ published: true
 From [State of Deception: The Power of Nazi Propaganda](http://www.ushmm.org/information/exhibitions/traveling-exhibitions/state-of-deception)
 
 {% include image.html file="1920_poster_12000_Jewish_soldiers_KIA_for_the_fatherland.jpg" alt="" %}
-
-

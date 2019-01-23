@@ -9,5 +9,3 @@ published: true
 Inspired by [Arthur Russell](http://en.wikipedia.org/wiki/Arthur_Russell_%28musician%29)
 
 {% include image.html file="arthur_russell.jpg" alt="" %}
-
-
