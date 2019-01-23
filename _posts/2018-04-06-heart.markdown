@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "宽厚"
+date:   2015-04-06 01:14:16 +0800
+published: true
+---
+“对每个人物的喜爱”
+
+{% include image.html file="building-in-chengdu.jpg" alt="" %}
