@@ -5,6 +5,16 @@ _site/
 Thumbs.db
 ehthumbs.db
 
+# GIT 
+.gitattributes
+
+
+# IntelliJ IDEA 
+.idea/*
+*.iws
+*.iml
+*.ipr
+
 # Folder config file
 Desktop.ini
 
