@@ -3,6 +3,7 @@ layout: post
 title:  "What do managers do?"
 date:   2018-03-09 13:55:16 +0800
 published: true
+comments: false
 ---
 Manager是做什么的呢？
 

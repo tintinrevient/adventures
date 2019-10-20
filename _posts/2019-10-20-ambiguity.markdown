@@ -3,6 +3,7 @@ layout: post
 title:  "Ambiguity"
 date:   2019-10-20 11:02:16 +0800
 published: true
+comments: false
 ---
 **Ambiguity** is the core. 
 * People are both kind and evil.

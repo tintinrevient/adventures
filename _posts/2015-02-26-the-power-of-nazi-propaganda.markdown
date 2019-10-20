@@ -3,6 +3,7 @@ layout: post
 title:  "The power of Nazi propaganda"
 date:   2015-02-26 15:29:16 +0800
 published: true
+comments: false
 ---
 "Party activists in rural areas tended to use slogans, generalities, and oversimplifications." en, probably the brain will deceive you, but the eyes can tell you the truth. And this is where the intuition comes from, and it's from staring?
 

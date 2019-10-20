@@ -3,6 +3,7 @@ layout: post
 title:  "You may behave like an asshole, but you must never be one"
 date:   2014-07-24 09:33:16 +0800
 published: true
+comments: false
 ---
 How many decent people are out there doing sneaky stuff？Count me in.
 

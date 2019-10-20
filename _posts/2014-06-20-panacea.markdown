@@ -3,6 +3,7 @@ layout: post
 title:  "Panacea"
 date:   2014-06-20 08:30:16 +0800
 published: true
+comments: false
 ---
 家居杂志、时装工业，可以完全不需要你寻找地、便捷地提供快速地被治愈的假象。所以，狗，花朵，衣着。
 
