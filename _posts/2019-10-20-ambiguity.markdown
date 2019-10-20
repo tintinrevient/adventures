@@ -8,7 +8,7 @@ published: true
 * People are both kind and evil.
 * Things are changing. On the bright side, bad things don't last, but also good things.
 
-Computation which base itself on disambiguity is now trying its best, but in vain.
+Computation which bases itself on disambiguity is now trying its best, but in vain.
 
 **Statistics** cannot predict the extinction of dinosaurs, and statistics is in nature narrow-minded and biased.
 
