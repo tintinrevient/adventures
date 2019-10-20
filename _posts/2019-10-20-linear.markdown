@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Linear"
+date:   2019-10-20 11:58:16 +0800
+published: true
+comments: false
+---
+**Non-Linear of Web** vs **Linear of Literature & Film**
