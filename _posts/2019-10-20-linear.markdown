@@ -5,4 +5,10 @@ date:   2019-10-20 11:58:16 +0800
 published: true
 comments: false
 ---
-**Non-Linear of Web** vs **Linear of Literature & Film**
+**Non-Linear of Web**
+* It doesn't create **time** and **space**, what it creates are only fractions?
+* It is result-oriented, and time serves as a factor measuring efficiency.
+
+**Linear of Literature, Music and Film**
+* I can immerse myself in it and find consolation.
+* It isn't result-oriented, and the lapse of time is enjoyable.
