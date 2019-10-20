@@ -12,5 +12,7 @@ Things are changing. On the bright side, bad things don't last, but also good th
 
 Computation which base itself on disambiguity is now trying its best, but in vain.
 
-Another thought is on the statistics, statistics cannot predict the extinction of dinosaurs, so statistics is in nature narrow-minded and biased.
+Another thought is on the statistics, statistics cannot predict the extinction of dinosaurs, and statistics is in nature narrow-minded and biased.
+
+Robot in essence feels no pain, and that is the divergence which renders it useless as a companion.
 
