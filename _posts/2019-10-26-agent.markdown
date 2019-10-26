@@ -5,6 +5,6 @@ date:   2019-10-26 18:27:16 +0800
 published: true
 comments: false
 ---
-**Distributed Computing** derives from the **Warcraft**.
+**Distributed Computing** derives from **Warcraft**.
 * How to distribute messages?
 * How to coordinate in a **Scaled Agile** way?
