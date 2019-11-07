@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Abstract"
+date:   2019-11-07 12:20:16 +0800
+published: true
+comments: false
+---
+**Abstract**
+* First Order Logic?
+* Deep Layers in Neural Network?
+* Paintings?
+
+From [Composition 8](https://www.guggenheim.org/artwork/1924){:target="_blank"}
+
+{% include image.html file="composition-8.png" alt="" %}
