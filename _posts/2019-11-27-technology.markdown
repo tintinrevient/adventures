@@ -11,6 +11,5 @@ comments: false
 * AI is a mere mind projection of humans onto the machines.
 
 There are far more important things to devote your effort to:
-* Suffering of boredom vs Suffering of wars or other human-inflicted pains
-
+* Suffering of boredom vs Suffering of wars or other human-inflicted pains.
 
