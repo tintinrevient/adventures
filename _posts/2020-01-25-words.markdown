@@ -36,6 +36,8 @@ What happened to King Lear is that he hopelessly drifted in a deserted land in h
 
 The question is that what AI can do in this tragedy?
 
+My guts tells me to trust your feelings and follow your heart ;)
+
 {% include image.html file="William_Dyce_-_King_Lear_and_the_Fool_in_the_Storm.jpg" alt="" %}
 
 
