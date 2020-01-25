@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Words - My Morning Mumbling"
+date:   2020-01-25 10:29:16 +0800
+published: true
+comments: false
+---
+We are now disproportionately dependent on words and vision.
+
+Thus AI technologies pivot themselves mainly on linguistics and image processing.
+
+But... speaking of words:
+
+There are sweet words and mean words;
+There are well-intentioned words and badly-intentioned words;
+There are direct/plain words and indirect/insinuating words;
+There are truth and lies;
+
+Meanings of words are hard to define and perceive.
+
+Words can kill people. If a man is overwhelmed terribly by his marriage, and someone just says to him: "I've seen your wife with that man yesterday." Whether these words are true or not, the man will suffer more intensely and might trigger his detroying intention (carnage, a.k.a. 修羅の心).
+
+Words can also soothe people.
+
+<span style="background-color: #FFFF00; "><b>Love is a special scene for words.</b></span>. It triggers romance, separation and nothingness.
+
+The tragedy of words is plotted in [King Lear](https://en.wikipedia.org/wiki/King_Lear){:target="_blank"}. 
+
+> What shall Cordelia speak?
+> Love, and be silent.
+
+> I love your majesty.
+> According to my bond, no more nor less. 
+
+What happened to King Lear is that he hopelessly drifted in a deserted land in his madness with blinded Gloucester. They were both deceived by words, and King Lear was blinded in mind and Gloucester was actually blinded. (vision is here associated with words.)
+
+The question is that what AI can do in this tragedy?
+
+{% include image.html file="William_Dyce_-_King_Lear_and_the_Fool_in_the_Storm.jpg" alt="" %}
+
+
+
+
+
+
+
+
