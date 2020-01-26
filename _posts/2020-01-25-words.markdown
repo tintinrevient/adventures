@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Words - My Morning Mumbling"
+title:  "Words"
 date:   2020-01-25 10:29:16 +0800
 published: true
 comments: false
