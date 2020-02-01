@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "War"
+date:   2020-01-31 10:29:16 +0800
+published: true
+comments: false
+---
+
+**"国之大事，在祀与戎。"**
+
+From [Night Revels of Han Xizai](https://en.wikipedia.org/wiki/Gu_Hongzhong){:target="_blank"}
+
+
+{% include image.html file="Gu_Hongzhong's_Night_Revels,_Detail_6.jpg" alt="" %}
+
+
+
+
+
+
+
+
+
+
+
+

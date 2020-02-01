@@ -9,7 +9,7 @@ comments: false
 * How to distribute messages?
 * How to coordinate in a **Scaled Agile** way?
 
-**Agent** derives from **Ritual**
+**Agent** derives from **Ritual**.
 * "The dragons and the snakes presumably were related to their role as God's agents, bridging His world and man's."
 
 From [Art, Myth and Ritual: The Path to Political Authority in Ancient China](https://www.hup.harvard.edu/catalog.php?isbn=9780674048089){:target="_blank"}

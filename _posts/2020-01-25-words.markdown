@@ -7,7 +7,7 @@ comments: false
 ---
 
 The tragedy of words:
-* [King Lear](https://en.wikipedia.org/wiki/King_Lear){:target="_blank"}. 
+* [King Lear](https://en.wikipedia.org/wiki/King_Lear){:target="_blank"}
 
 {% include image.html file="William_Dyce_-_King_Lear_and_the_Fool_in_the_Storm.jpg" alt="" %}
 
