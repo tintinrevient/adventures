@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Concept"
+date:   2020-06-25 21:43:07 +0800
+published: true
+comments: false
+---
+
+**Future** is a concept, made into reality by our perception and action.
+
+**Country** is a concept, made into reality by our perception and action.
+
+**Love** is a concept, made into reality by our perception and action.
