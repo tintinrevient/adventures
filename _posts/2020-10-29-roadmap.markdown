@@ -7,5 +7,5 @@ comments: false
 ---
 
 <ins>Roadmap</ins>
-* **Your partner**
+* **Your partners**
 * **Your enemies**
