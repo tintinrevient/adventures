@@ -12,14 +12,14 @@ comments: false
 
 "Then, is this world more connected or disconnected?"
 
-"How about **empathy**? Are we more empathetic virtually? Feel the pain of others..."
+"How about **empathy**? Are we more empathetic virtually? Feel the pain of others, still by watching..."
 
-"Does a good **movie** trigger deep thinking and empathy? We can experience it from the main characters' **perspective**?"
+"Does a good **movie** trigger deep thinking and empathy? We can experience it from the main character's **perspective**?"
 
 "Does a good movie count as VR or embodied AI?"
 
 "Or, VR or embodied AI techniques might replace movie in the future?"
 
-"Mmm, maybe we are not trapped in our body, but from our perspective."
+"Mmm, maybe we are not trapped in our body, but from our perspective, projected on a screen."
 
 {% include image.html file="simon-stalenhag.jpg" alt="" %}
